@@ -1,0 +1,48 @@
+.login-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 80px;
+}
+
+.login-logo {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	font-size: 28px;
+	background-color: #BEBEBE;
+}
+
+.login-title {
+	margin: 0px;
+	margin-top: 30px;
+	font-size: 32px;
+	font-weight: 500;
+}
+
+.login-form {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	margin-top: 30px;
+}
+
+.login-input-label {
+	margin-top: 10px;
+}
+
+.login-input {
+	height: 30px;
+	margin-top: 5px;
+}
+
+.login-submit {
+	width: 150px;
+	height: 30px;
+	margin: 0px auto;
+	margin-top: 25px;
+	border: none;
+	cursor: pointer;
+	background-color: #BEBEBE;
+}

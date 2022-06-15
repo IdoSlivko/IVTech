@@ -1,0 +1,12 @@
+.question-tag {
+	box-sizing: border-box;
+	height: 100%;
+	margin-top: 3px;
+	margin-right: 5px;
+	padding: 3px;
+	border-radius: 4px;
+	text-align: center;
+	list-style-type: none;
+	cursor: pointer;
+	background-color: #BEBEBE;
+}
